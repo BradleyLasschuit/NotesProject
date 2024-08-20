@@ -43,3 +43,20 @@ in Terminal write the following 4 commands :
 - flutter pub add firebase_auth
 - flutter pub add cloud_firestore
 - flutter pub add firebase_analytics
+
+
+## Fitebase init 
+https://www.youtube.com/watch?v=KDzkbcBNdVo&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT&index=12 - Vandad outdated method, gives good insight so worth watch. 
+https://firebase.google.com/docs/flutter/setup?platform=android
+
+Run following commands 
+
+- flutter doctor 
+- npm i -g firebase-tools
+- Firebase login
+- dart pub global activate flutterfire_cli
+- flutterfire configure
+- Add to Path envrionment variable , Windows key > Environment > Bottom button > Add NEW path
+
+- Firebase logout
+- Firebase login
